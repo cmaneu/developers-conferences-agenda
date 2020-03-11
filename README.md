@@ -100,6 +100,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 1-3: [Scala Days Berlin](https://scaladays.org/) - Germany (Berlin)
 * 2-3: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
+* 2: [ServerlessDays Paris](https://paris.serverlessdays.io) - France (Paris)
 
 ### August
 
